@@ -1,8 +1,7 @@
 # Prueba técnica JDN1 - Parte II (Itinerario específico React)
 
-## Instrucciones
-- Realiza el ejercicio marcado.
-- Haz tanto como puedas en el tiempo marcado. 
+- Realiza el ejercicio.
+- Haz tanto como puedas en el tiempo marcado (45'). 
 - Puedes consultar [React dev](https://react.dev/)
 
 ## Ejercicio
